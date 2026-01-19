@@ -1,3 +1,5 @@
 # Commit-35
-35
-35
+base Guild Role
+...
+base Guild silver
+...
